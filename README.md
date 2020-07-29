@@ -8,10 +8,10 @@
   Linkedin:
      <a href="linkedin.com/aayush-karna-032">Aayush Karna</a>
     
- <span> Mail Me on :</span>
-      Gmail:
+  Mail Me on :<br>
+      Gmail:<br>
           <a href="mailto:ayushkarn32@gmail.com">ayushkarn32@gmail.com</a>
-    or
+    or<br>
       <a href="mailto:aayush@aayushkarna.com.np">aayush@aayushkarna.com.np</a>
 <!--
 **ayushkarn32/ayushkarn32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
