@@ -6,7 +6,7 @@
 📫 How to reach me:
     
   Linkedin:
-     <a href="linkedin.com/aayush-karna-032">Aayush Karna</a>
+     <a href="https://linkedin.com/aayush-karna-032">Aayush Karna</a>
     
   Mail Me on :<br>
       Gmail:<br>
