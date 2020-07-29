@@ -3,7 +3,7 @@
 <img src="https://github.com/ayushkarn32/ayushkarn32/blob/master/bio.png" alt=bio-img>
 🌱 I’m currently learning:
     AngularJs
-    
+
 📫 How to reach me:
     
   Linkedin:
