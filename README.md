@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+#Short Bio goes here:
+
+<img src="https://github.com/ayushkarn32/ayushkarn32/blob/master/bio.png" alt=bio-img>
 🌱 I’m currently learning:
     AngularJs
     
 📫 How to reach me:
     
-  <img src="https://github.com/ayushkarn32/ayushkarn32/blob/master/linkedin-brands">Linkedin:
+  Linkedin:
      <a href="https://linkedin.com/aayush-karna-032">Aayush Karna</a>
     
   Mail Me on :<br>
