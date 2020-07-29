@@ -5,7 +5,7 @@
     
 📫 How to reach me:
     
-  <img src="https://github.com/ayushkarn32/ayushkarn32/blob/master/linkedin-brands.png" style="height:10px;width:10px;">Linkedin:
+  <img src="https://github.com/ayushkarn32/ayushkarn32/blob/master/linkedin-brands">Linkedin:
      <a href="https://linkedin.com/aayush-karna-032">Aayush Karna</a>
     
   Mail Me on :<br>
