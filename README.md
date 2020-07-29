@@ -8,7 +8,7 @@
   Linkedin:
      <a href="linkedin.com/aayush-karna-032">Aayush Karna</a>
     
-  Mail Me on :
+ <span> Mail Me on :</span>
       Gmail:
           <a href="mailto:ayushkarn32@gmail.com">ayushkarn32@gmail.com</a>
     or
