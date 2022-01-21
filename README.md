@@ -1,4 +1,4 @@
-### Hi There , Here's my short Intro 👋
+<!--### Hi There , Here's my short Intro 👋    -->
 
 <h1 align="center">Hi 👋, I'm Aayush Karna</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
