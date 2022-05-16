@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [aayushkarna.com.np](aayushkarna.com.np)
+- 👨‍💻 All of my projects are available at [https://aayushkarna.com.np](aayushkarna.com.np)
 
 - 📫 How to reach me **ayushkarn32@gmail.com,aayush@aayushkarna.com.np**
 
